@@ -1,4 +1,4 @@
-# 02_05 Solution: Develop a Container Image Workflow
+# Solution: Develop a Container Image Workflow
 
 In this challenge, you’ll create a **continuous delivery workflow** that builds and publishes a **container image** for a Python application using **GitHub Actions**. Starting from a brand-new repository, you’ll add application files, configure an integration workflow, and connect it to a delivery workflow that publishes a Docker image to GitHub Packages.
 
